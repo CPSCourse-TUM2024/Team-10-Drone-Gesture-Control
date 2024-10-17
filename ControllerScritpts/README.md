@@ -1,12 +1,12 @@
 # DroneGestureControl
 
-arduinoscript.py : it contains the final python script for the connection between the drone and the laptop.
+arduinoscript.py : Python script to control the drone using the arduino.
 
 finalscript.ino : it contains the final arduino script for the arduino and its connection with the laptop through bluetooth.
 
 scan.py: it is just a file we used to find the mac address of the arduino.
 
-model.h : has the final trained model converter to header file
+model.h : has the final trained model converted to header file
 
 gesture recognition folder: contains all what we did to train the model
 
